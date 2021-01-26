@@ -10,23 +10,23 @@ HTTP Website Attack Tool for destroying websites The tool is for educational pur
 2. <code>apt install git python -y</code> 
 3. <code>python -m pip install requests colorama click</code>
 4. <code>git clone https://github.com/hkqe/DDos-MAX</code>
-5. <code>cd DDos-Attack</code>
-6. <code>python MAX.py</code><br><br>
+5. <code>cd DDos-MAX</code>
+6. <code>python DDos-MAX.py</code><br><br>
 # Some commands
 
-Usage: ddos.py [OPTIONS]<br>
+Usage: DDos-MAX.py [OPTIONS]<br>
 Options:<br
 <code>--proxy</code> - TEXT - File with a proxy<br>
 <code>--help</code> - Show this message and exit.<br>
 Example:<br>
-<code>python ddos.py</code><br>
+<code>python DDos-MAX.py</code><br>
 or<br>
-<code>python ddos.py --proxy "dicts/proxies.txt"</code><br>
+<code>python DDos-MAX.py --proxy "dicts/proxies.txt"</code><br>
 
 
 
 # Update
-<code>cd ~/dos-attack/ && git pull</code>
+<code>cd ~/DDos-MAX/ && git pull</code>
 
 
 
@@ -82,7 +82,7 @@ HTTP Website MAX Tool for destroying websites The tool is for educational purpos
 
 14
 
-6. <code>python MAX.py</code><br><br>
+6. <code>python DDos-MAX.py</code><br><br>
 
 15
 
@@ -94,7 +94,7 @@ HTTP Website MAX Tool for destroying websites The tool is for educational purpos
 
 17
 
-Usage: ddos.py [OPTIONS]<br>
+Usage: DDos-MAX.py [OPTIONS]<br>
 
 18
 
@@ -114,7 +114,7 @@ Example:<br>
 
 22
 
-<code>python ddos.py</code><br>
+<code>python DDos-MAX.py</code><br>
 
 23
 
@@ -122,7 +122,7 @@ or<br>
 
 24
 
-<code>python ddos.py --proxy "dicts/proxies.txt"</code><br>
+<code>python DDos-MAX.py --proxy "dicts/proxies.txt"</code><br>
 
 
 # Update
