@@ -124,37 +124,6 @@ or<br>
 
 <code>python ddos.py --proxy "dicts/proxies.txt"</code><br>
 
-25
-
-
-
-26
-
-
-
-27
-
-
-
-28
 
 # Update
-
-29
-
 <code>cd ~/dos-MAX/ && git pull</code>
-
-30
-
-
-
-31
-
-
-
-32
-
-
-
-33
-
