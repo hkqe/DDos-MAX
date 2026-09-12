@@ -3,7 +3,7 @@
 HTTP Website Attack Tool for destroying websites The tool is for educational purposes
 
 # Contact me on Telegram
-<br><b>~~> <a href="https://t.me/E999G">Telegram</a> <~~</b><br>
+<br><b>~~> <a href="https://t.me/e0obot">Telegram</a> <~~</b><br>
 
 # Installing
 1. <code>apt update && apt upgrade -y</code>
