@@ -50,7 +50,7 @@ HTTP Website MAX Tool for destroying websites The tool is for educational purpos
 
 6
 
-<br><b>~~> <a href="https://t.me/E999G">Telegram</a> <~~</b><br>
+<br><b>~~> <a href="https://t.me/e0obot">Telegram</a> <~~</b><br>
 
 7
 
